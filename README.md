@@ -1,8 +1,7 @@
 utils
 =====
 
-   myProof
-   +++++++
+   ** myProof **
 
    Example of standalone program using PROOF.
    To build, make sure ROOTSYS is valid and just type 'make'.
